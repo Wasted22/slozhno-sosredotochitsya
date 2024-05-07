@@ -17,6 +17,6 @@
   --border-color:#ff007066;
 }
 
-.page.theme_dark .header__theme-menu-button_type_dark{
+.page.theme_dark .header__theme-menu-button_type_dark {
   outline: 1px solid var(--decoration-color);
 }
