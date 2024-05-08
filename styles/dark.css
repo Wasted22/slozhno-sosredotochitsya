@@ -20,3 +20,7 @@
 .page.theme_dark .header__theme-menu-button_type_dark {
   outline: 1px solid var(--decoration-color);
 }
+
+.page.theme_dark .decoration {
+  display: block;
+}
