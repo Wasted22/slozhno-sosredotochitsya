@@ -58,7 +58,7 @@
   inline-size: 9px;
   block-size: 9px;
   background-color: var(--accent-color);
-  border-radius: 50% ;
+  border-radius: 50%;
   box-shadow: 0px 0px 6px 3px var(--accent-color);  
 }
 
@@ -150,7 +150,7 @@
 
 .link:focus-visible {
   outline: none;
-  border-bottom: 1px solid var(--text-color);
+  border: 1px solid var(--text-color);
 }
 
 .section:not(:last-child) {
@@ -219,7 +219,7 @@
     padding: 0;
   }
 
-  .header__theme-menu{
+  .header__theme-menu {
     margin: 20px 20px 0 20px;
   }
   .title {
