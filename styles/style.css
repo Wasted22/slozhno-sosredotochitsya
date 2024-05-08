@@ -8,7 +8,7 @@
  
 }
 .page {
-  background-image: var(--background-image);
+  background: var(--background-image), var(--background-color);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
