@@ -15,8 +15,3 @@
   outline: 1px solid var(--decoration-color);
 }
 
-@media (prefers-color-scheme: light) {
-  .decoration{
-    display: none;
-  }
-}
