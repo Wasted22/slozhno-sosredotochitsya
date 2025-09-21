@@ -55,7 +55,7 @@
   content: '';
   position: absolute;
   top: 8px;
-  left: .section_text:not(:last-child);
+  left: 42px;
   inline-size: 9px;
   block-size: 9px;
   background-color: var(--accent-color);
